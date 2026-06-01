@@ -80,6 +80,3 @@ time. A equipe deve concordar com um estilo único de formatação e aplicá-lo 
 consistente em todo o projeto. Não importa se a chave de abertura de um bloco fica na 
 mesma linha ou na linha seguinte; o que realmente importa é que a padronização evite o 
 "atrito visual" e permita que qualquer membro da equipe leia o código de forma fluida.
-Referências
-[1] Martin, Robert C. Clean Code: A Handbook of Agile Software Craftsmanship. Prentice 
-Hall, 2008. (Citação extraída do Capítulo 2)
