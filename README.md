@@ -25,6 +25,7 @@ e mantê-lo em todo o projeto, evitando misturar sinônimos como obter para oper
 recuperar e obter.
 "A diferença entre um programador inteligente e um programador profissional é que o 
 profissional entende que a clareza é rei." 
+
 Capítulo 4: Comentários (Comments)
 No quarto capítulo, Robert Martin adota uma postura que pode parecer um tanto radical 
 para muitos iniciantes: ele argumenta que "comentários são, na melhor das hipóteses, 
@@ -49,6 +50,7 @@ ruidosos (informações óbvias que apenas poluem o arquivo) e marcadores de pos
 excessivos (como // ************ ). A prática mais condenada, no entanto, é deixar código 
 comentado no repositório. Com a chegada dos sistemas de controle de versão (como o Git), 
 não há justificativa para manter código morto no arquivo; ele deve ser simplesmente apagado.
+
 Capítulo 5: Formatação (Formatting)
 O quinto capítulo aborda a formatação do código não apenas como uma questão 
 estética, mas como uma forma vital de comunicação. Um código bem formatado mostra 
